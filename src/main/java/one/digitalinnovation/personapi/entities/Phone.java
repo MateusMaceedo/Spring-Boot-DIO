@@ -19,6 +19,7 @@ import javax.persistence.Id;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
+
 public class Phone {
 
     @Id
