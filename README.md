@@ -47,3 +47,9 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
 [Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
+
+## 👨🏻‍🚀 Sobre mim
+<a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
+ <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
+ <p>Mateus Macedo</p>
+</a>
